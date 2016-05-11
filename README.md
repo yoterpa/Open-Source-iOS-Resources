@@ -12,6 +12,13 @@ A list of open-source iOS resources.
  - [paper-switch](https://github.com/Ramotion/paper-switch)
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
 
+##### Other Extremely Useful Frameworks
+* [Pure Layout](https://github.com/PureLayout/PureLayout)
+* [Masonry](https://github.com/SnapKit/Masonry) - Layout Framework
+* [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
+* [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+
 ##### For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 
@@ -26,3 +33,6 @@ A list of open-source iOS resources.
 
 ##### Xcode
 * [Build-Time-Analyzer for Swift](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
+
+##### Miscellaneous
+* [Swift-OCR](https://github.com/garnele007/SwiftOCR)
