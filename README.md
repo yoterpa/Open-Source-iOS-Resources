@@ -13,4 +13,4 @@ A list of open-source iOS resources.
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
 
 ##### For Learning Purposes
-* [Popular Algorithms in Swift]https://github.com/hollance/swift-algorithm-club
+* [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
