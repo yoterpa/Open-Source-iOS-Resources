@@ -14,3 +14,7 @@ A list of open-source iOS resources.
 
 ##### For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
+
+##### Github Trending Repositories
+* [Swift](https://github.com/trending/swift?since=monthly)
+* [Objective-C](https://github.com/trending/objective-c?since=monthly)
