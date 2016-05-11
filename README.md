@@ -1,7 +1,7 @@
 # Open-Source-iOS-Resources
 A list of open-source iOS resources.
 
-##### User-Interface Animation Libraries
+## User-Interface Animation Libraries
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
 * Libraries by [Ramotion](https://github.com/Ramotion)
  - [paper-onboarding](https://github.com/Ramotion/paper-onboarding)
@@ -12,27 +12,27 @@ A list of open-source iOS resources.
  - [paper-switch](https://github.com/Ramotion/paper-switch)
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
 
-##### Other Extremely Useful Frameworks
+## Other Extremely Useful Frameworks
 * [Pure Layout](https://github.com/PureLayout/PureLayout)
 * [Masonry](https://github.com/SnapKit/Masonry) - Layout Framework
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
 * [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
-##### For Learning Purposes
+## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 
-##### Github Trending Repositories
+## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
 * [Objective-C](https://github.com/trending/objective-c?since=monthly)
 
-##### Server Side Programming in Swift
+## Server Side Programming in Swift
 * [Kitura](https://github.com/IBM-Swift/Kitura)
  - [IBM Sandbox](https://developer.ibm.com/swift/products/kitura/)
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
 
-##### Xcode
+## Xcode
 * [Build-Time-Analyzer for Swift](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
 
-##### Miscellaneous
+## Miscellaneous
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
