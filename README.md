@@ -25,4 +25,4 @@ A list of open-source iOS resources.
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
 
 ##### Xcode
-* [Build-Time-Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
+* [Build-Time-Analyzer for Swift](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
