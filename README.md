@@ -23,3 +23,6 @@ A list of open-source iOS resources.
 * [Kitura](https://github.com/IBM-Swift/Kitura)
  - [IBM Sandbox](https://developer.ibm.com/swift/products/kitura/)
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
+
+##### Xcode
+* [Build-Time-Analyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
