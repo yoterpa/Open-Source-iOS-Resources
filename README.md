@@ -18,3 +18,7 @@ A list of open-source iOS resources.
 ##### Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
 * [Objective-C](https://github.com/trending/objective-c?since=monthly)
+
+##### Server Side Programming in Swift
+* [Kitura](https://github.com/IBM-Swift/Kitura)
+* [Perfect](https://github.com/PerfectlySoft/Perfect)
