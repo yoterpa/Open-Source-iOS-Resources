@@ -1,6 +1,7 @@
 # Open-Source-iOS-Resources
 A list of open-source iOS resources.
 
+##### User-Interface Animation Libraries
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
 * Libraries by [Ramotion](https://github.com/Ramotion)
  - [paper-onboarding](https://github.com/Ramotion/paper-onboarding)
@@ -10,3 +11,6 @@ A list of open-source iOS resources.
  - [circle-menu](https://github.com/Ramotion/circle-menu)
  - [paper-switch](https://github.com/Ramotion/paper-switch)
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
+
+##### For Learning Purposes
+* [Popular Algorithms in Swift]https://github.com/hollance/swift-algorithm-club
