@@ -17,6 +17,9 @@ A list of open-source iOS resources.
 * [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
+## Design & Prototyping
+* [Origami](https://facebook.github.io/origami/) - By @facebook
+
 ## User-Interface Animation Libraries
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
 * Libraries by [Ramotion](https://github.com/Ramotion)
