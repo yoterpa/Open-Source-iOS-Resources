@@ -31,6 +31,7 @@ A list of open-source iOS resources.
  - [paper-switch](https://github.com/Ramotion/paper-switch)
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
  - [A list of Animation Libraries](https://github.com/sxyx2008/awesome-ios-animation) by @sxyx2008
+ - [Interpolate](https://github.com/marmelroy/Interpolate)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
