@@ -41,5 +41,8 @@ A list of open-source iOS resources.
  - [IBM Sandbox](https://developer.ibm.com/swift/products/kitura/)
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
 
+## Security
+* [Objective-C Obfuscator](https://github.com/Polidea/ios-class-guard)
+
 ## Miscellaneous
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
