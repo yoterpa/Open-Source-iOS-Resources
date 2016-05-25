@@ -43,6 +43,8 @@ A list of open-source iOS resources.
 
 ## Security
 * [Objective-C Obfuscator](https://github.com/Polidea/ios-class-guard)
+* [Objc.io: Receipt Validation](https://www.objc.io/issues/17-security/receipt-validation/)
+* [Validating in-app purchases in your iOS app](http://futurice.com/blog/validating-in-app-purchases-in-your-ios-app)
 
 ## Miscellaneous
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
