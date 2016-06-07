@@ -21,7 +21,7 @@ A list of open-source iOS resources.
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
 
-## User-Interface Animation Libraries
+## User-Interface (Animation) Libraries
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
 * Libraries by [Ramotion](https://github.com/Ramotion)
  - [paper-onboarding](https://github.com/Ramotion/paper-onboarding)
@@ -33,6 +33,10 @@ A list of open-source iOS resources.
  - [navigation-stack](https://github.com/Ramotion/navigation-stack)
  - [A list of Animation Libraries](https://github.com/sxyx2008/awesome-ios-animation) by @sxyx2008
  - [Interpolate](https://github.com/marmelroy/Interpolate)
+* [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)
+* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)
+* [ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC)
+* [Cocoa-controls](https://www.cocoacontrols.com/controls?platform_id=ios)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
