@@ -38,6 +38,8 @@ A list of open-source iOS resources.
 * [ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC)
 * [Cocoa-controls](https://www.cocoacontrols.com/controls?platform_id=ios)
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+* [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
+* [PopupController](https://github.com/daisuke310vvv/PopupController)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
