@@ -57,3 +57,4 @@ A list of open-source iOS resources.
 ## Miscellaneous
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
 * [Mixpanel Trends: iOS Version Penetration Analytics](https://mixpanel.com/trends/#report/ios_frag)
+* [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
