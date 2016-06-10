@@ -17,6 +17,7 @@ A list of open-source iOS resources.
 * [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 * [DateTools](https://github.com/MatthewYork/DateTools)
+* [Chameleon](https://github.com/ViccAlexander/Chameleon)
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
@@ -40,6 +41,11 @@ A list of open-source iOS resources.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
 * [PopupController](https://github.com/daisuke310vvv/PopupController)
+* [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)
+* [JazzHands](https://github.com/IFTTT/JazzHands)
+* Libraries by [Yalantis](https://github.com/Yalantis)
+ - [Koloda](https://github.com/Yalantis/Koloda): Tinder-like swipeable cards.
+ - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
@@ -58,3 +64,7 @@ A list of open-source iOS resources.
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
 * [Mixpanel Trends: iOS Version Penetration Analytics](https://mixpanel.com/trends/#report/ios_frag)
 * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
+
+## Inspired By
+* [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+* [https://github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
