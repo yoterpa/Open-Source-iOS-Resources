@@ -67,6 +67,9 @@ A list of open-source iOS resources.
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
 * [Mixpanel Trends: iOS Version Penetration Analytics](https://mixpanel.com/trends/#report/ios_frag)
 * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
+* [Harpy](https://github.com/ArtSabintsev/Harpy): Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
+* [Siren](https://github.com/ArtSabintsev/Siren): Siren is a Swift port of the Objective-C 'Harpy' project.
+* [iRate](https://github.com/nicklockwood/iRate): A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while.
 
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
