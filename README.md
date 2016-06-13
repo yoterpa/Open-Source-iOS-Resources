@@ -49,6 +49,10 @@ A list of open-source iOS resources.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
+* UICollectionView:
+ - [KTCenterFlowLayout](https://github.com/keighl/KTCenterFlowLayout)
+ - [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout)
+ - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
