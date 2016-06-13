@@ -47,6 +47,8 @@ A list of open-source iOS resources.
 * Libraries by [Yalantis](https://github.com/Yalantis)
  - [Koloda](https://github.com/Yalantis/Koloda): Tinder-like swipeable cards.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
+* [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
+* [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
