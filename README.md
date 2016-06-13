@@ -18,6 +18,7 @@ A list of open-source iOS resources.
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 * [DateTools](https://github.com/MatthewYork/DateTools)
 * [Chameleon](https://github.com/ViccAlexander/Chameleon)
+* [FlatUIKit](https://github.com/Grouper/FlatUIKit)
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
