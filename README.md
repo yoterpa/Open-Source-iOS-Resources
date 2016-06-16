@@ -49,10 +49,15 @@ A list of open-source iOS resources.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
+* [PasswordTextField](https://github.com/PiXeL16/PasswordTextField): A custom TextField with a switchable icon which shows or hides the password and enforce good password policies
+* [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast): A simple UI class for presenting useful information to the user.
 * UICollectionView:
  - [KTCenterFlowLayout](https://github.com/keighl/KTCenterFlowLayout)
  - [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout)
  - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
+ - [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout): UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.
+* [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
+* [JJMaterialTextField](https://github.com/juanjoguevara/JJMaterialTextField)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
