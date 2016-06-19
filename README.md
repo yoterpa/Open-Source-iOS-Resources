@@ -60,6 +60,7 @@ A list of open-source iOS resources.
 * [JJMaterialTextField](https://github.com/juanjoguevara/JJMaterialTextField)
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
 * [KLCPopup](https://github.com/jmascia/KLCPopup)
+* [XLForm](https://github.com/xmartlabs/XLForm): XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
