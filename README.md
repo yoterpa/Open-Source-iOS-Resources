@@ -49,6 +49,7 @@ A list of open-source iOS resources.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
+* [SCLAlertView](https://github.com/dogo/SCLAlertView)
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField): A custom TextField with a switchable icon which shows or hides the password and enforce good password policies
 * [SWBufferedToast](https://github.com/sfwalsh/SWBufferedToast): A simple UI class for presenting useful information to the user.
 * UICollectionView:
