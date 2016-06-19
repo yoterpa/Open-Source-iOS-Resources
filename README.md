@@ -59,6 +59,7 @@ A list of open-source iOS resources.
 * [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
 * [JJMaterialTextField](https://github.com/juanjoguevara/JJMaterialTextField)
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
+* [KLCPopup](https://github.com/jmascia/KLCPopup)
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
