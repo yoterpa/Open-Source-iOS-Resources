@@ -43,7 +43,7 @@ A list of open-source iOS resources.
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)
 * [PopupController](https://github.com/daisuke310vvv/PopupController)
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)
-* [JazzHands](https://github.com/IFTTT/JazzHands)
+* [JazzHands](https://github.com/IFTTT/JazzHands): A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. http://ifttt.github.io
 * Libraries by [Yalantis](https://github.com/Yalantis)
  - [Koloda](https://github.com/Yalantis/Koloda): Tinder-like swipeable cards.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
