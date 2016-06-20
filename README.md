@@ -65,6 +65,9 @@ A list of open-source iOS resources.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView)
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
 
+## Debugging
+* [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
+
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 
