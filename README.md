@@ -90,6 +90,8 @@ A list of open-source iOS resources.
 * [iRate](https://github.com/nicklockwood/iRate): A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while.
 * [BFKit](https://github.com/FabrizioBrancati/BFKit)
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)
+* [AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs. https://yahoo.github.io/AppDevKit
+* [HWLoadingAnimation](https://github.com/Loveway/HWLoadingAnimation): Animation for loading (complete with Objective-C & Swift)
 
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
