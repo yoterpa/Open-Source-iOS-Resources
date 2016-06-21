@@ -44,6 +44,8 @@ A list of open-source iOS resources.
 * [PopupController](https://github.com/daisuke310vvv/PopupController)
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)
 * [JazzHands](https://github.com/IFTTT/JazzHands): A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. http://ifttt.github.io
+* [EAIntroView](https://github.com/ealeksandrov/EAIntroView)
+* [Onboard](https://github.com/mamaral/Onboard): An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
 * Libraries by [Yalantis](https://github.com/Yalantis)
  - [Koloda](https://github.com/Yalantis/Koloda): Tinder-like swipeable cards.
  - [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)
