@@ -66,6 +66,7 @@ A list of open-source iOS resources.
 * [XLForm](https://github.com/xmartlabs/XLForm): XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView)
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
+* [RESideMenu](https://github.com/romaonthego/RESideMenu): iOS 7/8 style side menu with parallax effect.
 
 ## Debugging
 * [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
