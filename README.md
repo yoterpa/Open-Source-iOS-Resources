@@ -36,7 +36,7 @@ A list of open-source iOS resources.
  - [A list of Animation Libraries](https://github.com/sxyx2008/awesome-ios-animation) by @sxyx2008
  - [Interpolate](https://github.com/marmelroy/Interpolate)
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)
-* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout)
+* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout): SFFocusViewLayout is a UICollectionViewLayout subclass for displaying focused content on UICollectionView which is the largest cell of all.
 * [ElasticTransition-ObjC](https://github.com/taglia3/ElasticTransition-ObjC)
 * [Cocoa-controls](https://www.cocoacontrols.com/controls?platform_id=ios)
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
