@@ -67,6 +67,10 @@ A list of open-source iOS resources.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView)
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
 * [RESideMenu](https://github.com/romaonthego/RESideMenu): iOS 7/8 style side menu with parallax effect.
+* [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView): A generic stretchy header for UITableView and UICollectionView
+
+## Data Modelling
+*[JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
 
 ## Debugging
 * [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
@@ -95,6 +99,8 @@ A list of open-source iOS resources.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)
 * [AppDevKit](https://github.com/yahoo/AppDevKit): AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs. https://yahoo.github.io/AppDevKit
 * [HWLoadingAnimation](https://github.com/Loveway/HWLoadingAnimation): Animation for loading (complete with Objective-C & Swift)
+* [PNChart](https://github.com/kevinzhow/PNChart): A simple and beautiful chart lib used in Piner and CoinsMan for iOS.
+* [GPUImage](https://github.com/BradLarson/GPUImage): An open source iOS framework for GPU-based image and video processing http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework
 
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
