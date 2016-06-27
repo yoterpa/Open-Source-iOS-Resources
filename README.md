@@ -79,9 +79,11 @@ A list of open-source iOS resources.
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 
 ## Server Side Programming in Swift
+*[vapor](https://github.com/qutheory/vapor): A web framework and server for Swift that works on OS X and Ubuntu. http://qutheory.io
 * [Kitura](https://github.com/IBM-Swift/Kitura)
  - [IBM Sandbox](https://developer.ibm.com/swift/products/kitura/)
-* [Perfect](https://github.com/PerfectlySoft/Perfect)
+* [Perfect](https://github.com/PerfectlySoft/Perfect): Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...) https://www.perfect.org
+ - [Perfect 1.0 Tutorials](http://perfect.org/tutorials.html): http://perfect.org/tutorials.html
 
 ## Security
 * [Objective-C Obfuscator](https://github.com/Polidea/ios-class-guard)
