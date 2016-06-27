@@ -83,7 +83,7 @@ A list of open-source iOS resources.
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView): A generic stretchy header for UITableView and UICollectionView
 
 ## Data Modelling
-*[JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
+* [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
 
 ## Debugging
 * [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
