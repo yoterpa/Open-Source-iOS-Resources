@@ -3,6 +3,16 @@ A list of open-source iOS resources.
 
 ## Table of Contents
 * [Github Trending Repositories](#github-trending-repositories)
+* [Xcode](#xcode)
+* [Extremely Useful Frameworks](#extremely-useful-frameworks)
+* [Design & Prototyping](#design-&-prototyping)
+* [User-Interface (Animation) Libraries](#user-interface-animation-libraries)
+* [Data Modelling](#data-modelling)
+* [Debugging](#debugging)
+* [For Learning Purposes](#for-learning-purposes)
+* [Server Side Programming in Swift](#server-side-programming-in-swift)
+* [Security](#security)
+* [Miscellaneous](#miscellaneous)
 
 ## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
