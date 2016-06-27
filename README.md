@@ -1,6 +1,9 @@
 # Open-Source-iOS-Resources
 A list of open-source iOS resources.
 
+## Table of Contents
+* [Github Trending Repositories](#Github-Trending-Repositories)
+
 ## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
 * [Objective-C](https://github.com/trending/objective-c?since=monthly)
