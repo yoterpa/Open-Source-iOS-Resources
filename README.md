@@ -2,7 +2,7 @@
 A list of open-source iOS resources.
 
 ## Table of Contents
-* [Github Trending Repositories](#Github-Trending-Repositories)
+* [Github Trending Repositories](#github-trending-repositories)
 
 ## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
