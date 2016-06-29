@@ -81,6 +81,7 @@ A list of open-source iOS resources.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
 * [RESideMenu](https://github.com/romaonthego/RESideMenu): iOS 7/8 style side menu with parallax effect.
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView): A generic stretchy header for UITableView and UICollectionView
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
