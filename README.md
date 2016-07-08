@@ -84,7 +84,7 @@ A list of open-source iOS resources.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [JTHamburgerButton](https://github.com/jonathantribouharet/JTHamburgerButton): An animated hamburger button for iOS.
 * [AYVibrantButton](https://github.com/a1anyip/AYVibrantButton): A stylish button with iOS 8 vibrancy effect
-* 
+* [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout): A fancy carousel flow layout for UICollectionView on iOS.
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
