@@ -72,6 +72,7 @@ A list of open-source iOS resources.
  - [NHBalancedFlowLayout](https://github.com/njdehoog/NHBalancedFlowLayout)
  - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
  - [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout): UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.
+ - [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout): A fancy carousel flow layout for UICollectionView on iOS.
 * [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
 * [JJMaterialTextField](https://github.com/juanjoguevara/JJMaterialTextField)
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
@@ -84,7 +85,7 @@ A list of open-source iOS resources.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [JTHamburgerButton](https://github.com/jonathantribouharet/JTHamburgerButton): An animated hamburger button for iOS.
 * [AYVibrantButton](https://github.com/a1anyip/AYVibrantButton): A stylish button with iOS 8 vibrancy effect
-* [UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout): A fancy carousel flow layout for UICollectionView on iOS.
+* [Presentr](https://github.com/IcaliaLabs/Presentr): Wrapper for custom ViewController presentations in iOS 8+
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
