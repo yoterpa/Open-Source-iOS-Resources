@@ -94,6 +94,7 @@ A list of open-source iOS resources.
 
 ## Debugging
 * [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
+* [Willow](https://github.com/Nike-Inc/Willow): Willow is a powerful, yet lightweight logging library written in Swift.
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
