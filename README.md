@@ -85,7 +85,9 @@ A list of open-source iOS resources.
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
 * [JTHamburgerButton](https://github.com/jonathantribouharet/JTHamburgerButton): An animated hamburger button for iOS.
 * [AYVibrantButton](https://github.com/a1anyip/AYVibrantButton): A stylish button with iOS 8 vibrancy effect
-* [Presentr](https://github.com/IcaliaLabs/Presentr): Wrapper for custom ViewController presentations in iOS 8+
+* [Presentr](https://github.com/IcaliaLabs/Presentr): Wrapper for custom ViewController presentations in iOS 8+.
+* [Daysquare](https://github.com/unixzii/Daysquare): An elegant calendar control for iOS.
+* [BackgroundVideoiOS](https://github.com/Guzlan/BackgroundVideoiOS): A swift and objective-C object that lets you add a background video to iOS views
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
