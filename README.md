@@ -100,6 +100,7 @@ A list of open-source iOS resources.
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
+* [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift): The Principles of OOD based on Uncle Bob articles.
 
 ## Server Side Programming in Swift
 * [vapor](https://github.com/qutheory/vapor): A web framework and server for Swift that works on OS X and Ubuntu. http://qutheory.io
