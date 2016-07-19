@@ -24,6 +24,7 @@ A list of open-source iOS resources.
 ## Extremely Useful Frameworks
 * [Pure Layout](https://github.com/PureLayout/PureLayout)
 * [Masonry](https://github.com/SnapKit/Masonry) - Layout Framework
+* [SnapKit](https://github.com/SnapKit/SnapKit): A Swift Autolayout DSL for iOS & OS X.
 * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
  - RayWenderLich: [Achieving 60 FPS scrolling](https://www.raywenderlich.com/86365/asyncdisplaykit-tutorial-achieving-60-fps-scrolling)
  - RayWenderLich: [Node Hierarchies](https://www.raywenderlich.com/107310/asyncdisplaykit-tutorial-node-hierarchies)
@@ -34,6 +35,7 @@ A list of open-source iOS resources.
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit)
 * [Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC): Bolts is a collection of low-level libraries designed to make developing mobile apps easier. http://boltsframework.github.io/docs/ios/
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+* [RETableViewManager](https://github.com/romaonthego/RETableViewManager): Powerful data driven content manager for UITableView.
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
