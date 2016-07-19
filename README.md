@@ -8,6 +8,7 @@ A list of open-source iOS resources.
 * [Design & Prototyping](#design-&-prototyping)
 * [User-Interface (Animation) Libraries](#user-interface-animation-libraries)
 * [Data Modelling](#data-modelling)
+* [Testing](#testing)
 * [Debugging](#debugging)
 * [For Learning Purposes](#for-learning-purposes)
 * [Server Side Programming in Swift](#server-side-programming-in-swift)
@@ -98,6 +99,9 @@ A list of open-source iOS resources.
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
+
+## Testing
+* [Quick](https://github.com/Quick/Quick): The Swift (and Objective-C) testing framework.
 
 ## Debugging
 * [FLEX](https://github.com/Flipboard/FLEX): An in-app debugging and exploration tool for iOS (By Flipboard).
