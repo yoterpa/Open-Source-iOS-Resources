@@ -14,6 +14,7 @@ A list of open-source iOS resources.
 * [Server Side Programming in Swift](#server-side-programming-in-swift)
 * [Security](#security)
 * [Miscellaneous](#miscellaneous)
+* [Useful Links](#useful-links)
 
 ## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
