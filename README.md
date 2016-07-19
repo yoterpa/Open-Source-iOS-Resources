@@ -130,6 +130,7 @@ A list of open-source iOS resources.
 * [GPUImage](https://github.com/BradLarson/GPUImage): An open source iOS framework for GPU-based image and video processing http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework
 * [UIView-Glow](https://github.com/thesecretlab/UIView-Glow): UIView+Glow is a category on UIView that adds support for making views glow. http://blog.secretlab.com.au/2012/06/23/glowing/
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive): ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
+* [react-native](https://facebook.github.io/react-native/): A framework for building native apps with React.
 
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
