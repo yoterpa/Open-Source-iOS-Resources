@@ -143,6 +143,9 @@ A list of open-source iOS resources.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster): Programmatically load custom fonts into your iOS app.
 * [TAPromotee](https://github.com/JanC/TAPromotee): Objective-C library to cross promote iOS apps.
 
+## Useful Links
+* [27 iOS open source libraries to skyrocket your development.](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.dc7lfk2a9)
+
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 * [https://github.com/vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
