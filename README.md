@@ -100,6 +100,7 @@ A list of open-source iOS resources.
 
 ## For Learning Purposes
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
+* [swift-algorithm-club (raywenderlich)](https://github.com/raywenderlich/swift-algorithm-club): Algorithms and data structures in Swift, with explanations! 
 * [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift): The Principles of OOD based on Uncle Bob articles.
 
 ## Server Side Programming in Swift
