@@ -33,6 +33,7 @@ A list of open-source iOS resources.
 * [Chameleon](https://github.com/ViccAlexander/Chameleon)
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit)
 * [Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC): Bolts is a collection of low-level libraries designed to make developing mobile apps easier. http://boltsframework.github.io/docs/ios/
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
