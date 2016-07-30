@@ -97,6 +97,7 @@ A list of open-source iOS resources.
 * [DropDown](https://github.com/AssistoLab/DropDown): A Material Design drop down for iOS.
 * [JHUD](https://github.com/jinxiansen/JHUD): A full screen of the Hud when loading the data (Objective-C).
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): An elegant messages UI library for iOS.
+* [DACircularProgress](https://github.com/danielamitay/DACircularProgress): DACircularProgress is a UIView subclass with circular UIProgressView properties.
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
