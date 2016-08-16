@@ -84,6 +84,7 @@ A list of open-source iOS resources.
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
 * [KLCPopup](https://github.com/jmascia/KLCPopup)
 * [XLForm](https://github.com/xmartlabs/XLForm): XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
+* [Form](https://github.com/hyperoslo/Form): The most flexible and powerful way to build a form on iOS http://hyper.no
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView)
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
 * [RESideMenu](https://github.com/romaonthego/RESideMenu): iOS 7/8 style side menu with parallax effect.
