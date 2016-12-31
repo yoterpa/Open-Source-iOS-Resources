@@ -150,6 +150,7 @@ A list of open-source iOS resources.
 
 ## Useful Links
 * [27 iOS open source libraries to skyrocket your development.](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.dc7lfk2a9)
+* [39 Open Source Swift UI Libraries For iOS App Development] (https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f#.e2gi0kco9)
 
 ## Open Source iOS Apps
 * [DuckDuckGo Search & Stories for iOS](https://github.com/duckduckgo/ios/)
