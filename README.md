@@ -39,6 +39,7 @@ A list of open-source iOS resources.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager): Powerful data driven content manager for UITableView.
 * [Material](https://github.com/CosmicMind/Material): Material is an animation and graphics framework that allows developers to easily create beautiful applications. http://materialswift.io
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationbar): UINavigationBar Category which allows you to change its appearance dynamically 
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
