@@ -118,6 +118,7 @@ A list of open-source iOS resources.
 * [Willow](https://github.com/Nike-Inc/Willow): Willow is a powerful, yet lightweight logging library written in Swift.
 
 ## For Learning Purposes
+* [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds): A List of Awesome Swift Playgrounds
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 * [swift-algorithm-club (raywenderlich)](https://github.com/raywenderlich/swift-algorithm-club): Algorithms and data structures in Swift, with explanations! 
 * [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift): The Principles of OOD based on Uncle Bob articles.
@@ -158,6 +159,7 @@ A list of open-source iOS resources.
 * [39 Open Source Swift UI Libraries For iOS App Development] (https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f#.e2gi0kco9)
 
 ## Open Source iOS Apps
+* [Kickstarter for iOS](https://github.com/kickstarter/ios-oss): Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [DuckDuckGo Search & Stories for iOS](https://github.com/duckduckgo/ios/)
 * [21 Amazing Open Source iOS Apps Written in Swift](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e#.19fal7fzu)
 * [Collaborative List of Open-Source iOS Apps by](https://github.com/dkhamsing/open-source-ios-apps) @dkhamsing
