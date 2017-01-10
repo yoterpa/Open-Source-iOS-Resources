@@ -24,6 +24,11 @@ A list of open-source iOS resources.
 * [Build-Time-Analyzer for Swift](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
 
 ## Extremely Useful Frameworks
+* [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift): Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
+* [ODUIThreadGuard](https://github.com/olddonkey/ODUIThreadGuard): A guard to help you check if you make UI changes not in main thread
+* [Injection II App](http://johnholdsworth.com/injection.html): It allows you to inject changes to class method implementations into a running application in the simulator or a macOS app.
+* [Hero](https://github.com/lkzhao/Hero): Supercharged transition engine for iOS.
+* [LTNavigationBar](https://github.com/ltebean/LTNavigationbar): UINavigationBar Category which allows you to change its appearance dynamically
 * [Pure Layout](https://github.com/PureLayout/PureLayout)
 * [Masonry](https://github.com/SnapKit/Masonry) - Layout Framework
 * [SnapKit](https://github.com/SnapKit/SnapKit): A Swift Autolayout DSL for iOS & OS X.
@@ -39,7 +44,6 @@ A list of open-source iOS resources.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager): Powerful data driven content manager for UITableView.
 * [Material](https://github.com/CosmicMind/Material): Material is an animation and graphics framework that allows developers to easily create beautiful applications. http://materialswift.io
-* [LTNavigationBar](https://github.com/ltebean/LTNavigationbar): UINavigationBar Category which allows you to change its appearance dynamically 
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
@@ -157,6 +161,7 @@ A list of open-source iOS resources.
 * [DuckDuckGo Search & Stories for iOS](https://github.com/duckduckgo/ios/)
 * [21 Amazing Open Source iOS Apps Written in Swift](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e#.19fal7fzu)
 * [Collaborative List of Open-Source iOS Apps by](https://github.com/dkhamsing/open-source-ios-apps) @dkhamsing
+* [Marvel App](https://github.com/thiagolioy/marvelapp)
 
 ## Inspired By
 * [https://github.com/cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
