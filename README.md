@@ -24,6 +24,7 @@ A list of open-source iOS resources.
 * [Build-Time-Analyzer for Swift](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
 
 ## Extremely Useful Frameworks
+* [PermissionScope](https://github.com/nickoneill/PermissionScope): Intelligent iOS permissions UI and unified API
 * [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift): Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
 * [ODUIThreadGuard](https://github.com/olddonkey/ODUIThreadGuard): A guard to help you check if you make UI changes not in main thread
 * [Injection II App](http://johnholdsworth.com/injection.html): It allows you to inject changes to class method implementations into a running application in the simulator or a macOS app.
@@ -106,6 +107,7 @@ A list of open-source iOS resources.
 * [JHUD](https://github.com/jinxiansen/JHUD): A full screen of the Hud when loading the data (Objective-C).
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): An elegant messages UI library for iOS.
 * [DACircularProgress](https://github.com/danielamitay/DACircularProgress): DACircularProgress is a UIView subclass with circular UIProgressView properties.
+* [PinterestSegment](https://github.com/TBXark/PinterestSegment): A Pinterest-like segment control with masking animation.
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
@@ -136,6 +138,7 @@ A list of open-source iOS resources.
 * [Validating in-app purchases in your iOS app](http://futurice.com/blog/validating-in-app-purchases-in-your-ios-app)
 
 ## Miscellaneous
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [Swift-OCR](https://github.com/garnele007/SwiftOCR)
 * [Mixpanel Trends: iOS Version Penetration Analytics](https://mixpanel.com/trends/#report/ios_frag)
 * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
