@@ -5,7 +5,7 @@ A list of open-source iOS resources.
 * [Github Trending Repositories](#github-trending-repositories)
 * [Xcode](#xcode)
 * [Extremely Useful Frameworks](#extremely-useful-frameworks)
-* [Design & Prototyping](#design-&-prototyping)
+* [Design & Prototyping](#design--prototyping)
 * [User-Interface (Animation) Libraries](#user-interface-animation-libraries)
 * [Data Modelling](#data-modelling)
 * [Testing](#testing)
@@ -15,7 +15,7 @@ A list of open-source iOS resources.
 * [Security](#security)
 * [Miscellaneous](#miscellaneous)
 * [Useful Links](#useful-links)
-* [UX & Design Concepts](#ux-&-design-concepts)
+* [UX & Design Concepts](#ux--design-concepts)
 * [Open Source iOS Apps](#open-source-ios-apps)
 
 ## Github Trending Repositories
