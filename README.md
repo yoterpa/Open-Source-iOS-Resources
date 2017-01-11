@@ -15,6 +15,8 @@ A list of open-source iOS resources.
 * [Security](#security)
 * [Miscellaneous](#miscellaneous)
 * [Useful Links](#useful-links)
+* [UX & Design Concepts](#ux-&-design-concepts)
+* [Open Source iOS Apps](#open-source-ios-apps)
 
 ## Github Trending Repositories
 * [Swift](https://github.com/trending/swift?since=monthly)
@@ -160,6 +162,9 @@ A list of open-source iOS resources.
 ## Useful Links
 * [27 iOS open source libraries to skyrocket your development.](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.dc7lfk2a9)
 * [39 Open Source Swift UI Libraries For iOS App Development] (https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f#.e2gi0kco9)
+
+## UX & Design Concepts
+* [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.2yw0a5bdo)
 
 ## Open Source iOS Apps
 * [Kickstarter for iOS](https://github.com/kickstarter/ios-oss): Kickstarter for iOS. Bring new ideas to life, anywhere.
