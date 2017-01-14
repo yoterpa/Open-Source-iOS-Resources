@@ -110,6 +110,7 @@ A list of open-source iOS resources.
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController): An elegant messages UI library for iOS.
 * [DACircularProgress](https://github.com/danielamitay/DACircularProgress): DACircularProgress is a UIView subclass with circular UIProgressView properties.
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment): A Pinterest-like segment control with masking animation.
+* [HVTableView](https://github.com/innovian/HVTableView): UITableView with expand/collapse feature (fully animatable)
 
 ## Data Modelling
 * [JSONModel](https://github.com/JSONModel/JSONModel): Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes http://www.jsonmodel.com
