@@ -52,6 +52,7 @@ A list of open-source iOS resources.
 * [Origami](https://facebook.github.io/origami/) - By @facebook
 
 ## User-Interface (Animation) Libraries
+* [UIScrollSlidingPages](https://github.com/TomThorpe/UIScrollSlidingPages): Allows you to add multiple view controllers and have them scroll horizontally, with a header scroller that stays in sync with the content and shows next, current and previous items. A zoom out effect appears as you scroll between pages. Similar in style to the Groupon app.
 * [HTHorizontalSelectionList](https://github.com/hightower/HTHorizontalSelectionList): A simple, horizontally-scrolling list of items that can be used as a more flexible replacement for UISegmentedControl
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView): App store style horizontal scroll view
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
