@@ -52,6 +52,7 @@ A list of open-source iOS resources.
 * [Origami](https://facebook.github.io/origami/) - By @facebook
 
 ## User-Interface (Animation) Libraries
+* [HTHorizontalSelectionList](https://github.com/hightower/HTHorizontalSelectionList): A simple, horizontally-scrolling list of items that can be used as a more flexible replacement for UISegmentedControl
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView): App store style horizontal scroll view
 * [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)
 * Libraries by [Ramotion](https://github.com/Ramotion)
