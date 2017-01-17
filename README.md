@@ -5,6 +5,7 @@ A list of open-source iOS resources.
 * [Github Trending Repositories](#github-trending-repositories)
 * [Xcode](#xcode)
 * [Extremely Useful Frameworks](#extremely-useful-frameworks)
+* [Facebook Open-Source Projects](#facebook-open-source-projects)
 * [Design & Prototyping](#design--prototyping)
 * [User-Interface (Animation) Libraries](#user-interface-animation-libraries)
 * [Data Modelling](#data-modelling)
@@ -47,6 +48,10 @@ A list of open-source iOS resources.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 * [RETableViewManager](https://github.com/romaonthego/RETableViewManager): Powerful data driven content manager for UITableView.
 * [Material](https://github.com/CosmicMind/Material): Material is an animation and graphics framework that allows developers to easily create beautiful applications. http://materialswift.io
+
+## Facebook Open-Source Projects
+* [Yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox. Yoga enables maximum collaboration within your team by implementing an API familiar to many designers and opening it up to developers across different platforms. https://facebook.github.io/yoga
+* [componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. http://www.componentkit.org/
 
 ## Design & Prototyping
 * [Origami](https://facebook.github.io/origami/) - By @facebook
