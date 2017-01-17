@@ -126,6 +126,7 @@ A list of open-source iOS resources.
 * [Willow](https://github.com/Nike-Inc/Willow): Willow is a powerful, yet lightweight logging library written in Swift.
 
 ## For Learning Purposes
+* [Codepath iOS-Guides](https://github.com/codepath/ios_guides/wiki): Comprehensive open-source iOS guides http://guides.codepath.com/ios
 * [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds): A List of Awesome Swift Playgrounds
 * [Popular Algorithms in Swift](https://github.com/hollance/swift-algorithm-club)
 * [swift-algorithm-club (raywenderlich)](https://github.com/raywenderlich/swift-algorithm-club): Algorithms and data structures in Swift, with explanations! 
